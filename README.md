@@ -1,4 +1,6 @@
-# Esse é o meu projeto de componentização para o site, disponibilizado pelo meu professor Luiz Picolo, "NetflixClone" utilizando VUE.
+#Componentização VUE
+
+Esse é o meu projeto de componentização para o site, disponibilizado pelo meu professor Luiz Picolo, "NetflixClone" utilizando VUE.
 
 Para iniciar o teste digite no prompt: 
 * ```bash
