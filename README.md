@@ -1,4 +1,4 @@
-#Componentização VUE
+# Componentização VUE
 
 Esse é o meu projeto de componentização para o site, disponibilizado pelo meu professor Luiz Picolo, "NetflixClone" utilizando VUE.
 
